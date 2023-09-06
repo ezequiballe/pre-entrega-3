@@ -1,0 +1,43 @@
+.main-2{
+        section{
+                h3{
+                    text-align: center;
+                    margin-top: 10px;
+                    margin-bottom: 10px;
+                    font-size: 200%;
+                }
+
+        }
+}
+.carousel{
+    display: flex;
+    
+    margin-left: 18%;
+ 
+}
+.carousel-indicators{
+    display: flex;
+    
+    justify-content: center;
+
+}
+  .tamaño-img{
+
+    border-radius: 5%;
+    border-style: solid;
+    margin: auto;
+    width: 50%;
+}
+
+.noticia1{
+    margin: 20px 30% 20px 30%;
+    text-align: center;
+    .imgr{
+        border-radius: 5%;
+        border-style: solid;
+        margin: auto;
+        width: 55%;
+    }
+
+
+}

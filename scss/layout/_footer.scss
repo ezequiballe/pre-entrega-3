@@ -1,0 +1,30 @@
+
+footer{
+    display: inline-block;
+    text-align: center;
+    background-color: $color-fondo;
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    a{
+        text-decoration: none;
+        color: $color-letra;
+    }
+}
+.facebook{
+    height: 2%;
+    width: 2%;
+}
+.instagram{
+    height: 2%;
+    width: 2%;
+}
+.twitter{
+    height: 2%;
+    width: 2%;
+}
+.youtube{
+    height: 2%;
+    width: 2%;
+}

@@ -1,0 +1,29 @@
+.catalogo-1{
+            margin-left: 15%;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            grid-template-rows: 1fr 1fr ;
+
+}
+
+.grid-item1{
+    display: grid;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.grid-item2{
+    display: grid;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  justify-self: left;
+}
+
+.imgr{
+    border-radius: 5%;
+    border-style: solid;
+    margin: auto;
+    width: 55%;
+}

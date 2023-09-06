@@ -1,0 +1,17 @@
+@import"./utils/variables";
+@import "./layout/body";
+@import"./layout/footer";
+@import"./layout/header";
+@import"./views/index";
+@import"./views/street";
+@import"./views/scuderia";
+@import"./views/historia";
+@import"./views/sobrenosotros";
+@import"./views/mobile";
+
+
+*{
+    margin: 0;
+    padding: 0; 
+    box-sizing: border-box;
+ }

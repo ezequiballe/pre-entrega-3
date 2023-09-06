@@ -1,0 +1,45 @@
+
+header{
+    background-color: $color-fondo;
+    background-size: cover;
+    div{
+        color: $color-letra;
+        text-decoration: none;
+        display: inline-block;
+        div{
+
+            ul{
+                list-style-type: none;
+            }
+
+        }
+
+    }
+
+}
+.nav-item{
+display:flex;
+
+}
+
+
+
+.barra{
+width: 150px;
+
+}
+
+#navbarNav{
+justify-content: center;
+
+}
+
+.logobarra {
+
+
+width: 40px;
+justify-content: center;
+align-items: center;
+
+
+}
